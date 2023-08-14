@@ -162,4 +162,4 @@ caption {
 
 10.  Uzdevums: Ievietojiet horizontālo līniju ar specifisku klases stila pielietojumu.
 
-<!--komentārs -->
+<hr style="height:10px;width:68%;border-width:0;background-color:pink">
