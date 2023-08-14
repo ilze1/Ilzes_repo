@@ -88,7 +88,7 @@ div {
 
 3. Uzdevums: Izveidojiet saites uz failiem, kas atrodas vietējā datorā.
 
-[Prezentācija 3]("C:\Users\ilzez\Desktop\DevOps\Lekcijas\FITA_Day_3_lection.pdf") 
+[Prezentācija 3]("C:\Users\IlzeR\Documents\Kursi\FITA_Day_3_lection.pdf") 
 
 ![Bilde no datora]("C:\Users\ilzez\Pictures\2020-12-25\IMG_20201225_152932.jpg")
 
@@ -99,7 +99,7 @@ div {
 </iframe>
 
 
-5. Uzdevums: Ievietojiet koda bloku ar norādi uz programmatūras valodu.
+<br>5. Uzdevums: Ievietojiet koda bloku ar norādi uz programmatūras valodu.
 
 <br>Jautājums: Kas ir norāde uz programmatūras valodu?
 
